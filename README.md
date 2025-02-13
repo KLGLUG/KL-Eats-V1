@@ -22,5 +22,5 @@ KL Eats is a innovative platform designed to streamline campus dining for studen
 - Type ``` npm install ``` in your command prompt or terminal.
 - Now to run the project on your server type ``` npm start ``` .
 
-## Raise an Issue for Bug/Improvement/Feature Request
+## Raise an Issue for Bug/Improvement/Feature Request for KL Eats
 
